@@ -1,0 +1,16 @@
+h1 {
+  color: #323232;
+}
+
+h2 {
+  color: #323232;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 70em;
+  font-family: "Helvetica", "Arial", sans-serif;
+  line-height: 1.5;
+  padding: 2em 1em;
+  color: #555;
+}
